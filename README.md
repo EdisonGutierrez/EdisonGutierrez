@@ -30,7 +30,7 @@ Hexagonal architecture, DDD, Apache Kafka (EDA), refresh token rotation, authent
 
 ---
 
-### 📦 Order Management System
+### 📦 [Order Management System](https://github.com/Daryc845/OrderManagerFrontend.git)
 Microservices architecture with API Gateway, Django authentication microservice, Angular frontend and role-based access control.
 `Python` `Django` `Angular` `API Gateway`
 
