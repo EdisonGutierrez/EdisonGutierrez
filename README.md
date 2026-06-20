@@ -32,7 +32,7 @@ Barbershop appointment scheduling system built with Angular. Layered architectur
 
 ---
 
-### [Access Control System](https://github.com/Daryc845/Access_Control_Frontend)
+### [Access Control System](https://github.com/EdisonGutierrez/Access_Control_Frontend)
 Parking access management system. Angular frontend + Spring Boot microservice with hexagonal architecture, DDD, Apache Kafka (EDA/SAGA), refresh token rotation and authentication middlewares.
 
 `Java` `Angular` `Kafka` `Spring Boot` `Hexagonal` `DDD`
@@ -46,14 +46,14 @@ Progressive Web App for inventory management. Service worker with Workbox for of
 
 ---
 
-### [Order Management System](https://github.com/Daryc845/OrderManagerFrontend)
+### [Order Management System](https://github.com/EdisonGutierrez/OrderManagerFrontend)
 Microservices architecture with API Gateway, Django authentication microservice, Angular frontend and role-based access control.
 
 `Python` `Django` `Angular` `API Gateway`
 
 ---
 
-### [Flower Disease Classification](https://github.com/Daryc845/Classification_of_Flower_Diseases)
+### [Flower Disease Classification](https://github.com/EdisonGutierrez/Classification_of_Flower_Diseases)
 CNN trained with TensorFlow/Keras on a balanced dataset of thousands of images to classify flower diseases. Multiclass model identifying crop type, health status and specific disease. Inference API built with Flask.
 
 `Python` `TensorFlow` `Keras` `Flask` `CNN`
